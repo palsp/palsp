@@ -4,7 +4,6 @@
 I'm a 3rd year collegue student. These are some of my works
 
 <img src="https://github-readme-stats.vercel.app/api?username=palsp&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>
-<img src="http://cuconnex-image.s3-website-ap-southeast-1.amazonaws.com/fashion_show.jpeg" />
 
 
 <!--
