@@ -4,7 +4,9 @@
 I'm a 3rd year collegue student. These are some of my works
 
 - 👯 I’m looking to collaborate on Golang project
-- 📫 How to reach me: liulak.supasin@gmail.com
+- 📫 How to reach me: 
+  - mail: liulak.supasin@gmail.com 
+  - Linkedin: [Supasin Liulak](https://www.linkedin.com/in/supasin-liulak-a92303221/)
 
 <!-- <img src="https://www.codewars.com/users/palsp/badges/large" /> -->
 
