@@ -6,7 +6,7 @@ I'm a 3rd year collegue student. These are some of my works
 - 👯 I’m looking to collaborate on Golang project
 - 📫 How to reach me: liulak.supasin@gmail.com
 
-<img src="https://www.codewars.com/users/palsp/badges/large" />
+<!-- <img src="https://www.codewars.com/users/palsp/badges/large" /> -->
 
 <img src="https://github-readme-stats.vercel.app/api?username=palsp&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>
 
