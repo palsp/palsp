@@ -3,7 +3,6 @@
 
 I'm a 4rd year collegue student. These are some of my works
 
-- 👯 I’m looking to collaborate on Golang project
 - 📫 How to reach me: 
   - Mail: liulak.supasin@gmail.com 
   - Linkedin: [Supasin Liulak](https://www.linkedin.com/in/supasin-liulak-a92303221/)
