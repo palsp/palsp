@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 
-I'm a 4rd year collegue student. These are some of my works
 
 - 📫 How to reach me: 
   - Mail: liulak.supasin@gmail.com 
